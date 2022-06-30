@@ -16,7 +16,7 @@ const Home = () => {
 	}, []);
 	console.log(movies);
   return (
-    <div>
+    <>
 		{
 		loading ? <h1>Loading...</h1> : movies.map((movie) => (
 			<Movie
@@ -29,7 +29,7 @@ const Home = () => {
 				/>
 			))
 		}
-    </div>
+    </>
   );
 }
 
