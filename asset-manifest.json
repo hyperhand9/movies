@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies.git/static/css/main.e6c13ad2.css",
+    "main.js": "/movies.git/static/js/main.f2cd9c32.js",
+    "static/js/787.e253fc0a.chunk.js": "/movies.git/static/js/787.e253fc0a.chunk.js",
+    "index.html": "/movies.git/index.html",
+    "main.e6c13ad2.css.map": "/movies.git/static/css/main.e6c13ad2.css.map",
+    "main.f2cd9c32.js.map": "/movies.git/static/js/main.f2cd9c32.js.map",
+    "787.e253fc0a.chunk.js.map": "/movies.git/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f2cd9c32.js"
+  ]
+}
